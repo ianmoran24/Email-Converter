@@ -1,0 +1,65 @@
+========= SECURITY STATEMENT ==========
+It is not recommended that you ship product(s) or otherwise grant services relying solely upon this e-mail receipt.
+
+========= GENERAL INFORMATION =========
+Merchant : MBaer Tech Sales (662658)
+Date/Time : 25-Apr-2023 12:51:26 PDT
+
+========= ORDER INFORMATION =========
+Invoice : 123456797
+Description : Medical Ins - $200 Dental Ins - $100 Vision Ins - $40 Amount : 340.00 (USD) Payment Method: Visa xxxx1111 Transaction Type: Authorization and Capture
+
+============== Line Items ==============
+Item: 1
+Description: Medical Ins
+Quantity: 1
+Unit Price: $200.00 (USD)
+Item Total: $200.00 (USD)
+Item: 2
+Description: Dental Ins
+Quantity: 1
+Unit Price: $100.00 (USD)
+Item Total: $100.00 (USD)
+Item: 3
+Description: Vision Ins
+Quantity: 1
+Unit Price: $40.00 (USD)
+Item Total: $40.00 (USD)
+
+============== RESULTS ==============
+Response : This transaction has been approved.
+Auth Code : F15DY7
+Transaction ID : 40118923302
+Address Verification : Street Address: Match -- First 5 Digits of Zip: Match
+
+==== CUSTOMER BILLING INFORMATION ===
+Customer ID : 911357680
+First Name : Bobby
+Last Name : Jones
+Company :
+Address : 12345 South Main
+City : Mytown
+State/Province : MD
+Zip/Postal Code : 21704
+Country : US
+Phone :
+Fax :
+E-Mail : michael.baer@bofa.com
+
+==== CUSTOMER SHIPPING INFORMATION ===
+First Name :
+Last Name :
+Company :
+Address :
+City :
+State/Province :
+Zip/Postal Code :
+Country :
+
+======= ADDITIONAL INFORMATION ======
+Tax : 0.00
+Duty :
+Freight : 0.00
+Tax Exempt :
+PO Number :
+
